@@ -1,2 +1,2 @@
 # rest_sample 
-A sample rest application using maven &amp; Spring
+A sample rest application using maven &amp; Spring and testing
