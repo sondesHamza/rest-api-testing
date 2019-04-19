@@ -1,2 +1,2 @@
-# rest_sample 1  2  3
+# rest_sample
 A sample rest application using maven &amp; Spring and testing
